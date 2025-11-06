@@ -1,16 +1,23 @@
-# receipt_app
+# Checkpoint 06 - ReceiptApp
 
-A new Flutter project.
+Aplicativo inteligente desenvolvido com Flutter para analisar notas fiscais e gerar insights financeiros.
 
-## Getting Started
+## Integrantes
 
-This project is a starting point for a Flutter application.
+Alexandre Biancolini dos Santos - RM93769
+Daniel Henrique Domeneguetti Oliveira - RM95081
+Gabriel Vidoi Mendonça - RM94226
+Pedro Henrique Gonçalves Tura - RM93391
+Rafael Gualdieri Pinheiro - RM93036
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Etapas de desenvolvimento
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Commit 2 - Construindo layout básico do app
+
+Prompts utilizados:
+
+![Prompt 1](assets/prompt_1.png)
+![Prompt 2](assets/prompt_2.png)
+![Prompt 3](assets/prompt_3.png)
+![Prompt 4](assets/prompt_4.png)
